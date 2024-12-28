@@ -10,5 +10,5 @@ Contact Section: A form to connect via email and social media links.
 Responsive Design: Optimized for seamless viewing on desktops, tablets, and smartphones.
 Tech Stack 🛠️
 Frontend: HTML, Tailwind CSS, JavaScript
-Frameworks/Libraries: (Add any additional tools used, e.g., Alpine.js, GSAP, etc.)
-Deployment: (Add hosting details, e.g., GitHub Pages, Vercel, or Netlify)
+Frameworks/Libraries: Alpine.js, GSAP
+Deployment: GitHub Pages, Vercel, Netlify
